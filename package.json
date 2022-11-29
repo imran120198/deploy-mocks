@@ -1,0 +1,23 @@
+{
+  "name": "deploy-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran120198/deploy-mocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imran120198/deploy-mocks/issues"
+  },
+  "homepage": "https://github.com/imran120198/deploy-mocks#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
